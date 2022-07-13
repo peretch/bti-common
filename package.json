@@ -1,6 +1,6 @@
 {
-  "name": "@cygnetops/common",
-  "version": "1.0.21",
+  "name": "@peretch/bti-common",
+  "version": "1.0.3",
   "description": "",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
